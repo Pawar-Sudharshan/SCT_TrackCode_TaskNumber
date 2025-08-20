@@ -8,7 +8,7 @@ This project highlights internship opportunities at SkillCraft Technology and in
 ## 🖼️ Project Screenshot  
 
 <p align="center">
-  <img src="SCT_WT_1/asserts/screenshot.png" alt="SkillCraft Website Preview" width="800">
+  <img src="SCT_WD_1/asserts/screenshot.png" alt="SkillCraft Website Preview" width="800">
 </p>
 
 ---
