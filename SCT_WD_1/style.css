@@ -1,0 +1,77 @@
+ /* Navbar base styling */
+    #skillcraft-navbar  {
+      background-color: #374049 !important;
+    }
+
+    #skillcraft-navbar .nav-link {
+      color: #f8f9fa !important;
+      transition: color 0.2s, background-color 0.2s;
+    }
+
+    #skillcraft-navbar .nav-link:hover,
+    #skillcraft-navbar .nav-link.active {
+      color: #0d6efd !important;
+      background-color: transparent;
+      border-radius: 20px;
+    }
+
+    /* Theme toggle button styles */
+    #themeToggle {
+      background: #fff;
+      border: none;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+
+    body.dark-mode #themeToggle {
+      background: #495057;
+      color: #f8f9fa;
+    }
+
+    /* Dark mode overrides */
+    body.dark-mode {
+      background-color: #212529;
+      color: #f8f9fa;
+    }
+/* 
+    body.dark-mode #skillcraft-navbar {
+      background-color: #212529 !important;
+    } */
+
+    body.dark-mode #skillcraft-navbar .nav-link {
+      color: #f8f9fa !important;
+    }
+
+    body.dark-mode #skillcraft-navbar .nav-link:hover,
+    body.dark-mode #skillcraft-navbar .nav-link.active {
+      background-color: #0d6efd;
+      color: #fff !important;
+      border-radius: 20px;
+    }
+
+    body.dark-mode h1.text-body-emphasis {
+  color: #f8f9fa !important; /* light color for dark background */
+}
+
+body.dark-mode main  , body.dark-mode section  {
+  background-color: #495057 !important;
+}
+
+footer {
+  background-color: #343a40 !important;
+  color: #f8f9fa !important;
+}
+
+footer a {
+  color: #f8f9fa;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #0d6efd;
+  text-decoration: underline;
+}
