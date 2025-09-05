@@ -25,10 +25,11 @@ This is a user-friendly, advanced stopwatch web application built using **HTML**
 6. Lap times and statistics will be displayed below the controls.
 ---
 ## Files
-- `index.html`: The main HTML file containing the stopwatch structure.
-- CSS is embedded within the HTML file for styling.
-- JavaScript is embedded within the HTML file to handle stopwatch logic and UI updates.
+- `index.html`: The main HTML file containing the stopwatch structure and links to external CSS and JS files.
+- `style.css`: Contains all the styling rules for the application.
+- `script.js`: Contains the JavaScript code handling stopwatch logic and UI updates.
 ---
+
 ## Code Overview
 - The `Stopwatch` class manages timing, lap recording, and display updating.
 - Uses `setInterval` to update the stopwatch display every 10 milliseconds.
