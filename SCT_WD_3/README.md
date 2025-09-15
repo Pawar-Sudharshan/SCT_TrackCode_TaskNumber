@@ -1,7 +1,7 @@
 Tic-Tac-Toe - Classic Game  
 [](https://github.com/Pawar-Sudharshan/SCT_TrackCode_TaskNumber/tree/main/SCT_WD_3#tic-tac-toe---classic-game)  
 [GitHub Link](https://github.com/Pawar-Sudharshan/SCT_TrackCode_TaskNumber/tree/main/SCT_WD_3#tic-tac-toe---classic-game)  
-[]([https://github.com/Pawar-Sudharshan/SCT_TrackCode_TaskNumber/blob/main/SCT_WD_3/assets/image.jpg](https://github.com/Pawar-Sudharshan/SCT_TrackCode_TaskNumber/blob/main/SCT_WD_3/asserts/image.png))
+[](https://github.com/Pawar-Sudharshan/SCT_TrackCode_TaskNumber/main/SCT_WD_3/assets/image.jpg)
 
 ## Overview  
 [](https://github.com/Pawar-Sudharshan/SCT_TrackCode_TaskNumber/tree/main/SCT_WD_3#overview)  
