@@ -1,0 +1,84 @@
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+/* Grid setup for Tic-Tac-Toe board */
+#board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+  gap: 5px;
+}
+
+/* Each box (cell) */
+.cell {
+  width: 100px;
+  height: 100px;
+  background: #1e1e1e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+/* Hover effect for cells */
+.cell:hover {
+  background: #333;
+}
+
+/* Game status text */
+#status {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+
+/* Restart button styling */
+button.button2 {
+  margin-top: 15px;
+  padding: 25px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background: #03a9f4;
+  color: white;
+}
+
+button.button2:hover {
+  background: #0288d1;
+  transform: scale(1.05);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Status button styling */
+button.button1 {
+  margin-top: 15px;
+  padding: 0.2px 100px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background: #4caf50;
+  color: white;
+}
+
+button.button1:hover {
+  color: yellow;
+  background: #45a049;
+  transform: scale(1.05);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
