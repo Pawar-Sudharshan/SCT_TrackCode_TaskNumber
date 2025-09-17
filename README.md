@@ -2,7 +2,7 @@
 
 A modern, feature-rich to-do list application built with vanilla HTML, CSS, and JavaScript. This app provides a clean, user-friendly interface with advanced functionality for managing your daily tasks.
 
-![Screenshot of Enhanced To-Do List App](/asserts/sceenshot.png)
+![Screenshot of Enhanced To-Do List App](https://github.com/Pawar-Sudharshan/SCT_TrackCode_TaskNumber/blob/main/SCT_WD_4/asserts/screenshot.png)
 
 
 ## ✨ Features
